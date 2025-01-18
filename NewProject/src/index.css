@@ -1,0 +1,17 @@
+.form{
+    padding: 10px;
+  }
+  input{
+    margin-left:50px;
+    padding:5px;
+  }
+  button{
+    margin:10px;
+  }
+  h1{
+    text-align:center;
+    padding:2px;
+  }
+  .tableSection{
+    margin-left:80px;
+  }
