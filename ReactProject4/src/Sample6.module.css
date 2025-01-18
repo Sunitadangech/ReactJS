@@ -1,0 +1,90 @@
+/* .container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.button {
+  margin: 5px;
+  padding: 10px 20px;
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: skyblue;
+} */
+
+
+
+.container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.button {
+  margin: 5px;
+  padding: 10px 20px;
+  /* background-color: pink; */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+
+.tesla {
+  background-color: #ff3b3b; /* Red */
+}
+
+.mahindra {
+  background-color: #3b82f6; /* Blue */
+}
+
+.bmw {
+  background-color: #34d399; /* Green */
+}
+
+
+.sedan {
+  background-color: yellow; /* Yellow */
+}
+
+.suv {
+  background-color: pink; /* Pink */
+}
+
+.jeep {
+  background-color: hotpink; /* Purpal */
+}
+
+
+.hatchback {
+  background-color: indigo; /* Indigo */
+}
+
+.coupe {
+  background-color: brown; /* Brown */
+}
+
+.crossover {
+  background-color: chocolate; /* Chocolate */
+}
+
+.sportcars {
+  background-color: #ff3b3b; /* Red */
+}
+
+
+
+.button:hover {
+  transform: scale(1.05);
+  background-color: orange;
+  transition: 0.2s ease-in-out;
+}
+
+
+
