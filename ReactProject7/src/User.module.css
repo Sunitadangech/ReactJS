@@ -1,0 +1,43 @@
+.Container{
+ height:100vh;
+ width:100%;
+ background-color:black;
+}
+
+.Box{
+    height:100px;
+    width:100px;
+    background-color:orange;
+    position:relative;
+    top:200px;
+    left:250px;
+}
+
+@keyframes move {
+    from{
+        transform:translateX(0);
+    }
+    to{
+        transform:translateX(350px);
+    }
+}
+
+.body{
+    background-image:url('./assets/rose1.avif');
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+.head{
+    margin-left:350px;
+    margin-top:80px;
+}
+.input{
+    height:35px;
+    width:250px;
+    border:none;
+    background-color:black;
+    border-bottom:1px solid white;
+    color:white;
+    font-style:italic
+}

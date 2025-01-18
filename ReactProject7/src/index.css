@@ -1,0 +1,23 @@
+.Container{
+    height:100vh;
+    width:100%;
+    background-color:black;
+   }
+   
+   .Box{
+       height:100px;
+       width:100px;
+       background-color:orange;
+       position:relative;
+       top:200px;
+       left:250px;
+   }
+   
+   @keyframes move {
+       from{
+           transform:translateX(0);
+       }
+       to{
+           transform:translateX(350px);
+       }
+   }
