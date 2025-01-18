@@ -1,0 +1,25 @@
+// import {msg1,msg2,msg3,msg4,msg5,msg6} from "./t2.js";
+// console.log(msg1());
+
+import { add,sub,mul,div ,remainder,display,a,b,msg,c,msg2,one,d,a1,a2,a3,a4,a5,a6,var1} from "./t2.js";
+console.log(add());
+console.log(sub());
+console.log(mul(5,6));
+console.log(div());
+console.log(remainder());
+console.log(display());
+console.log(a);
+console.log(b);
+console.log(msg());
+console.log(c);
+console.log(msg2());
+console.log(one());
+console.log(d);
+console.log(a1);
+console.log(a2);
+console.log(a3);
+console.log(a4);
+console.log(a4[3]);
+console.log(a5);
+console.log(a6);
+console.log(var1);
